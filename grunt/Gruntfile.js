@@ -8,7 +8,7 @@ module.exports = function(grunt) {
           options: {
           },
           files: {
-            'email-inlined.html': 'sample-grunt-use-email.html'
+            'email-responsive-no-media-queries.html': 'responsive-without-media-queries.html'
           }
         }
       }
